@@ -37,7 +37,7 @@ dSrv.serverPost("getRaw", ```Insert your media URL here``` , function(data){
 
 ## Authors
 
-* **KillerDucks** - *Initial work* - [PurpleBooth](https://github.com/KillerDucks)
+* **KillerDucks** - *Initial work* - [KillerDucks](https://github.com/KillerDucks)
 
 See also the list of [contributors](https://github.com/KillerDucks/node-dataServices/contributors) who participated in this project.
 
