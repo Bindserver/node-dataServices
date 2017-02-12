@@ -1,0 +1,29 @@
+{
+  "name": "node-dataservices-bind",
+  "version": "1.0.1",
+  "description": "NodeJS libary to connect and send API requests to the Bindserver DataServices Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillerDucks/node-dataServices.git"
+  },
+  "keywords": [
+    "Bindserver",
+    "Data-Services",
+    "dataServices",
+    "xAuth",
+    "xAuthv2"
+  ],
+  "author": "KillerDucks <nimesh.patel@bindserver.com> (https://bindserver.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KillerDucks/node-dataServices/issues"
+  },
+  "homepage": "https://github.com/KillerDucks/node-dataServices#readme",
+  "dependencies": {
+    "needle": "^1.4.5"
+  }
+}
