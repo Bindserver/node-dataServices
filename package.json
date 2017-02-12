@@ -1,6 +1,6 @@
 {
   "name": "node-dataservices-bind",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJS libary to connect and send API requests to the Bindserver DataServices Server",
   "main": "index.js",
   "scripts": {
